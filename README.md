@@ -1,6 +1,4 @@
-# python_WK5-OOP
----
-# *OOP Assignment*
+# OOP Assignment*
 
 ## Description
 
